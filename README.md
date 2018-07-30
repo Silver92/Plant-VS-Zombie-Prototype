@@ -4,7 +4,7 @@
 
 A basic clone of the popular Plants vs. Zombies.
 
-![Screen Shot 2018-07-30 at 11.28.52](/Users/silver/Documents/Games/GlitchGarden/Screen Shot 2018-07-30 at 11.28.52.png)
+![Screen Shot 2018-07-30 at 11.28.52](https://github.com/Silver92/Plant-VS-Zombie-Prototype/blob/master/Screen%20Shot%202018-07-30%20at%2011.28.52.png)
 
 * The object of the game is to stop animals from entering your house.
 
